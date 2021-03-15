@@ -4,5 +4,4 @@ Jocul are si multe exceptii, astfel la pornire, folositi doar litere mari. Navel
 
 Imagine adaugarea navelor (navele inamicului nu se vor vedea): ![image](https://user-images.githubusercontent.com/62211568/111192752-16f16300-85c2-11eb-9f0b-89af36ac0a6c.png)
 
-Imagine din timpul atacului (patratelele rosii simblizeaza prezenta unei nave): ![image](https://user-images.githubusercontent.com/62211568/111191919-3471fd00-85c1-11eb-9111-73246c6faf92.png)
-
+Imagine din timpul atacului (patratelele rosii simblizeaza prezenta unei nave): ![image](https://user-images.githubusercontent.com/62211568/111193202-9717c880-85c2-11eb-9762-48cd47e04723.png)
